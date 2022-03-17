@@ -5,6 +5,6 @@
     <artifactId>app-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>pruebas</artifactId>
-  <name>primer curso java para no programadores</name>
+  <artifactId>app-domain</artifactId>
+  <name>modulo de entidades</name>
 </project>
